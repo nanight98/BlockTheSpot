@@ -35,7 +35,7 @@ or
 
 * Run The following command in PowerShell:
 ```ps1
-Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/mrpond/BlockTheSpot/master/install.ps1' | Invoke-Expression
+Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/nanight98/BlockTheSpot/master/install.ps1' | Invoke-Expression
 ```
 
 or
