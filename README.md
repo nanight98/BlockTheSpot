@@ -6,7 +6,7 @@
 </center>
 
 <center>
-    <h1 align="center">"nanigh"</h1>
+    <h1 align="center">BlockTheSpot</h1>
     <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Windows</strong> Spotify desktop application.</h4>
     <h5 align="center">Dont support Spotify by purchasing premium</h5>
     <p align="center">
