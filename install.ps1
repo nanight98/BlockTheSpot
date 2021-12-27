@@ -74,15 +74,15 @@ function Get-File
 
 Write-Host @'
 *****************
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+@nanight message:
+#shige
+free hong kong
 *****************
 '@
 
 Write-Host @'
 *****************
-Authors: @Nuzair46, @KUTlime
+Authors: @nanight
 *****************
 '@
 
@@ -308,9 +308,9 @@ Write-Host 'Done.'
 
 Write-Host @'
 *****************
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+@nanight message:
+#shige
+free hong kong
 *****************
 '@
 
