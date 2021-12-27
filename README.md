@@ -1,15 +1,14 @@
 
 
 <center>
-    <h3 align="center"><a href="https://en.wikipedia.org/wiki/2020_Thai_protests">Support the 2020 Thailand & 2021 Myanmar protests</a></h3>
-    <h3 align="center">Help me stop the dictatorship in Thailand and Myanmar!</h3>
-    <h3 align="center">Southeast Asia strong together!</h3>
+    <h3 align="center">spotify ads r stupid</h3>
+    <h3 align="center">free hong kong fr yo</h3>
 </center>
 
 <center>
-    <h1 align="center">BlockTheSpot</h1>
+    <h1 align="center">"nanight"</h1>
     <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Windows</strong> Spotify desktop application.</h4>
-    <h5 align="center">Please support Spotify by purchasing premium</h5>
+    <h5 align="center">Dont support Spotify by purchasing premium</h5>
     <p align="center">
         <strong>Last updated:</strong> 29 October 2021<br>
         <strong>Last tested version:</strong> 1.1.74.631.g0b24d9ad
