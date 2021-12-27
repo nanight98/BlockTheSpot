@@ -1,8 +1,8 @@
 
 
 <center>
-    <h3 align="center">spotify ads r stupid</h3>
-    <h3 align="center">free hong kong fr yo</h3>
+    <h3 align="center">free tay k</h3>
+    <h3 align="center">free hong kong</h3>
 </center>
 
 <center>
