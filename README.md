@@ -1,14 +1,14 @@
 
 
 <center>
-    <h3 align="center">free tay k</h3>
-    <h3 align="center">free hong kong</h3>
+    <h3 align="center">okay yeah</h3>
+    <h3 align="center">it's finished</h3>
 </center>
 
 <center>
-    <h1 align="center">BlockTheSpot</h1>
+    <h1 align="center">Nanight</h1>
     <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Windows</strong> Spotify desktop application.</h4>
-    <h5 align="center">Dont support Spotify by purchasing premium</h5>
+    <h5 align="center">Support Spotify by purchasing premium</h5>
     <p align="center">
         <strong>Last updated:</strong> 27 December 2021<br>
         <strong>Last tested version:</strong> 1.1.74.631.g0b24d9ad
